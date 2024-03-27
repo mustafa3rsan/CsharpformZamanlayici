@@ -1,0 +1,17 @@
+C:\Users\Mustafa\Desktop\DERS\Görsel Programlama\Zamanlayicibugfix\Zamanlayicibugfix\bin\Debug\net6.0-windows\Zamanlayicibugfix.exe
+C:\Users\Mustafa\Desktop\DERS\Görsel Programlama\Zamanlayicibugfix\Zamanlayicibugfix\bin\Debug\net6.0-windows\Zamanlayicibugfix.deps.json
+C:\Users\Mustafa\Desktop\DERS\Görsel Programlama\Zamanlayicibugfix\Zamanlayicibugfix\bin\Debug\net6.0-windows\Zamanlayicibugfix.runtimeconfig.json
+C:\Users\Mustafa\Desktop\DERS\Görsel Programlama\Zamanlayicibugfix\Zamanlayicibugfix\bin\Debug\net6.0-windows\Zamanlayicibugfix.dll
+C:\Users\Mustafa\Desktop\DERS\Görsel Programlama\Zamanlayicibugfix\Zamanlayicibugfix\bin\Debug\net6.0-windows\Zamanlayicibugfix.pdb
+C:\Users\Mustafa\Desktop\DERS\Görsel Programlama\Zamanlayicibugfix\Zamanlayicibugfix\obj\Debug\net6.0-windows\Zamanlayicibugfix.csproj.AssemblyReference.cache
+C:\Users\Mustafa\Desktop\DERS\Görsel Programlama\Zamanlayicibugfix\Zamanlayicibugfix\obj\Debug\net6.0-windows\Zamanlayicibugfix.Form1.resources
+C:\Users\Mustafa\Desktop\DERS\Görsel Programlama\Zamanlayicibugfix\Zamanlayicibugfix\obj\Debug\net6.0-windows\Zamanlayicibugfix.csproj.GenerateResource.cache
+C:\Users\Mustafa\Desktop\DERS\Görsel Programlama\Zamanlayicibugfix\Zamanlayicibugfix\obj\Debug\net6.0-windows\Zamanlayicibugfix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mustafa\Desktop\DERS\Görsel Programlama\Zamanlayicibugfix\Zamanlayicibugfix\obj\Debug\net6.0-windows\Zamanlayicibugfix.AssemblyInfoInputs.cache
+C:\Users\Mustafa\Desktop\DERS\Görsel Programlama\Zamanlayicibugfix\Zamanlayicibugfix\obj\Debug\net6.0-windows\Zamanlayicibugfix.AssemblyInfo.cs
+C:\Users\Mustafa\Desktop\DERS\Görsel Programlama\Zamanlayicibugfix\Zamanlayicibugfix\obj\Debug\net6.0-windows\Zamanlayicibugfix.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\Desktop\DERS\Görsel Programlama\Zamanlayicibugfix\Zamanlayicibugfix\obj\Debug\net6.0-windows\Zamanlayicibugfix.dll
+C:\Users\Mustafa\Desktop\DERS\Görsel Programlama\Zamanlayicibugfix\Zamanlayicibugfix\obj\Debug\net6.0-windows\refint\Zamanlayicibugfix.dll
+C:\Users\Mustafa\Desktop\DERS\Görsel Programlama\Zamanlayicibugfix\Zamanlayicibugfix\obj\Debug\net6.0-windows\Zamanlayicibugfix.pdb
+C:\Users\Mustafa\Desktop\DERS\Görsel Programlama\Zamanlayicibugfix\Zamanlayicibugfix\obj\Debug\net6.0-windows\Zamanlayicibugfix.genruntimeconfig.cache
+C:\Users\Mustafa\Desktop\DERS\Görsel Programlama\Zamanlayicibugfix\Zamanlayicibugfix\obj\Debug\net6.0-windows\ref\Zamanlayicibugfix.dll
